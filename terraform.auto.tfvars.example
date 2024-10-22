@@ -1,0 +1,3 @@
+# Rename this file to terraform.auto.tfvars and fill in the values.
+name = "name-tag"
+environment = "environment-tag"
