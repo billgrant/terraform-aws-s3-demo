@@ -1,4 +1,4 @@
-# terraform-aws-s3-test
+# terraform-aws-s3-demo
 
 S3 bucket code for proof of concepts in Terraform cloud.
 
