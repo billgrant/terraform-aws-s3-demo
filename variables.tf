@@ -9,4 +9,4 @@ variable "name" {
 
 variable "environment" {
   description = "Environment to deploy resources."
-}
+  }
